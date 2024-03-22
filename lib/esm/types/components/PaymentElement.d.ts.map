@@ -1,0 +1,1 @@
+{"version":3,"file":"PaymentElement.d.ts","sourceRoot":"","sources":["../../../../src/components/PaymentElement.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAC,iBAAiB,EAA0B,MAAM,OAAO,CAAC;AAIjE,MAAM,WAAW,YAAY;IAC3B,EAAE,CAAC,EAAE,MAAM,CAAC;IACZ,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,OAAO,CAAC,EAAE,GAAG,CAAC;CACf;AAED,eAAO,MAAM,cAAc,EAAE,iBAAiB,CAAC,YAAY,CAwB1D,CAAA"}
