@@ -6,7 +6,7 @@ export interface ElementsContextValue {
 export declare const ElementsContext: React.Context<ElementsContextValue | null>;
 interface ElementsProps {
     publicKey: string;
-    options: MicroOptions;
+    options?: MicroOptions;
 }
 export declare const Elements: FunctionComponent<PropsWithChildren<ElementsProps>>;
 export {};

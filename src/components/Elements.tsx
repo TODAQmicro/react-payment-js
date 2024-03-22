@@ -11,7 +11,7 @@ export const ElementsContext = React.createContext<ElementsContextValue | null>(
 
 interface ElementsProps {
   publicKey: string;
-  options: MicroOptions;
+  options?: MicroOptions;
 }
 
 export const Elements: FunctionComponent<PropsWithChildren<ElementsProps>> = (({
