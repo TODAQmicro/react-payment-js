@@ -1,6 +1,6 @@
 {
   "name": "@todaqmicro/react-payment-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React hooks for TODAQ Micro client side Payment JS SDK",
   "types": "./lib/cjs/types/index.d.ts",
   "main": "./lib/cjs/index.js",

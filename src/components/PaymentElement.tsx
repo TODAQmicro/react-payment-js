@@ -1,6 +1,9 @@
-import {FunctionComponent, useLayoutEffect, useRef} from "react";
-import {useElements} from "..";
-import {MicroElement} from "@todaqmicro/payment-js";
+'use client';
+
+import { FunctionComponent, useLayoutEffect, useRef } from "react";
+import { MicroElement } from "@todaqmicro/payment-js";
+
+import { useElements } from "..";
 
 export interface ElementProps {
   id?: string;

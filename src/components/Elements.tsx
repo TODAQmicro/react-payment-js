@@ -1,3 +1,5 @@
+'use client';
+
 import React, { FunctionComponent, PropsWithChildren } from "react";
 import { MicroElements, MicroOptions, loadMicroPayments } from "@todaqmicro/payment-js";
 
